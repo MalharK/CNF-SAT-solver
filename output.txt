@@ -1,0 +1,4 @@
+a True
+c True
+b True
+Unassigned variables can have any value
